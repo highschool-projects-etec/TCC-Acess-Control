@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/26 17:48:41.000.745,=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 14:27:23.000.539,=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 14:30:00.000.521,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\aluno\Desktop\TCC.pas</Transaction>
+    <Transaction>2019/09/30 14:30:00.000.521,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\aluno\Desktop\TCC.dfm</Transaction>
+    <Transaction>2019/09/30 14:30:05.000.291,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\aluno\Desktop\PROJETOTCC.dproj</Transaction>
+    <Transaction>2019/10/03 08:38:01.000.765,=D:\TCC cartão\TCC CORRETO\Unit1.pas</Transaction>
+    <Transaction>2019/10/03 08:38:35.000.619,=D:\TCC cartão\TCC CORRETO\Unit1.pas</Transaction>
+    <Transaction>2019/10/03 09:11:28.000.416,=D:\TCC cartão\TCC CORRETO\Unit1.pas</Transaction>
+    <Transaction>2019/10/03 09:26:20.000.172,D:\TCC cartão\TCC CORRETO\Unit1.dfm=D:\TCC cartão\TCC CORRETO\cadastro.dfm</Transaction>
+    <Transaction>2019/10/03 09:26:20.000.172,D:\TCC cartão\TCC CORRETO\Unit1.pas=D:\TCC cartão\TCC CORRETO\cadastro.pas</Transaction>
+    <Transaction>2019/10/03 09:32:05.000.028,=D:\TCC cartão\TCC CORRETO\ABOUT.pas</Transaction>
+    <Transaction>2019/10/04 10:30:41.000.764,=H:\TCC cartão\TCC CORRETO\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 10:55:47.000.481,=H:\TCC cartão\TCC CORRETO\Unit2.pas</Transaction>
+    <Transaction>2019/10/04 11:00:52.000.495,=H:\TCC cartão\TCC CORRETO\Module.pas</Transaction>
+    <Transaction>2019/10/07 09:23:43.000.602,D:\TCC cartão\TCC CORRETO\Module.dfm=D:\TCC cartão\TCC CORRETO\dmPrincipal.dfm</Transaction>
+    <Transaction>2019/10/07 09:23:43.000.602,D:\TCC cartão\TCC CORRETO\Module.pas=D:\TCC cartão\TCC CORRETO\dmPrincipal.pas</Transaction>
+    <Transaction>2019/10/07 14:17:20.000.979,=D:\TCC cartão\TCC CORRETO\Controle.pas</Transaction>
+    <Transaction>2019/10/07 14:27:19.000.699,=D:\TCC cartão\TCC CORRETO\CadastraCliente.pas</Transaction>
+    <Transaction>2019/10/17 10:40:57.000.219,=D:\TCC cartão\TCC CORRETO\uFrmGerarCodigoBarra.pas</Transaction>
+    <Transaction>2019/10/17 10:45:00.000.643,D:\TCC cartão\TCC CORRETO\cadastro.pas=</Transaction>
+    <Transaction>2019/10/17 10:47:52.000.232,=D:\TCC cartão\TCC CORRETO\barra.pas</Transaction>
+    <Transaction>2019/10/17 10:52:41.000.049,=D:\TCC cartão\TCC CORRETO\Unit1.pas</Transaction>
+    <Transaction>2019/10/17 10:58:02.000.913,D:\TCC cartão\TCC CORRETO\barra.pas=</Transaction>
+    <Transaction>2019/10/17 10:58:37.000.547,D:\TCC cartão\TCC CORRETO\Unit1.dfm=D:\TCC cartão\TCC CORRETO\gerador.dfm</Transaction>
+    <Transaction>2019/10/17 10:58:37.000.547,D:\TCC cartão\TCC CORRETO\Unit1.pas=D:\TCC cartão\TCC CORRETO\gerador.pas</Transaction>
+  </Transactions>
+</BorlandProject>
